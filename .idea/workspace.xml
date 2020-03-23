@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ab6b62c-b96e-44a3-a382-05a913ec2bb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/fxml/view-students.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/fxml/view-students.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="1ab6b62c-b96e-44a3-a382-05a913ec2bb4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +12,6 @@
       <list>
         <option value="FxmlFile" />
         <option value="Class" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,13 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vladd\Desktop\fis\student-manager\src" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -77,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584978762822</updated>
-      <workItem from="1584978766560" duration="1086000" />
+      <workItem from="1584978766560" duration="44000" />
+      <workItem from="1584979173830" duration="976000" />
     </task>
     <servers />
   </component>
@@ -85,14 +75,6 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="506" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1584979960794">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="506" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1584979960794" />
-    <state x="113" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584980383945">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="113" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584980383945" />
     <state x="466" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1584978767365">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
