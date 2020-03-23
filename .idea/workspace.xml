@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ab6b62c-b96e-44a3-a382-05a913ec2bb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/controllers/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/fxml/login.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/sample.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="1ab6b62c-b96e-44a3-a382-05a913ec2bb4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584978762822</updated>
       <workItem from="1584978766560" duration="44000" />
-      <workItem from="1584979173830" duration="320000" />
+      <workItem from="1584979173830" duration="976000" />
     </task>
     <servers />
   </component>
